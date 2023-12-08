@@ -1,0 +1,38 @@
+1. What does the man command do? Type in man rm. How do you scroll and get out?
+	man is used to look up the manual of a command. 
+	I'm on a PC and using git, and I would type in git --help rm 
+	That would open the manual in a browser, with typical browser controls (scroll bar, etc)
+	In a Unix system use enter to scroll, and q (quit) to exit
+	
+2. Look at the man page for ls. What does the -l flag do? What does the -a flag do?
+	-l shows the long format details of what is in the directory
+	-a shows all contents of the directory, including hidden files
+	
+3. How do you jump between words in the terminal?
+	on my PC I can use Alt and the sideways arrows to jump between words
+	
+4. How do you get to the end of a line in terminal?
+	On my PC Ctrl + e moves to the end of a line
+	
+5. How do you move your cursor to the beginning in terminal?
+	On my PC Ctrl + a moves to the beginning of a line
+	
+6. How do you delete a word (without pressing backspace multiple times) in terminal?
+	On my PC Ctrl + w deletes the word where the cursor is
+	
+7. What is the difference between a terminal and shell?
+	Shell is the functionality, terminal is the interface
+	
+8. What is an absolute path?
+	It is the path to a file fully written out from the root directory
+	
+9. What is an relative path?
+	Relative path is the file path to the file from your current location
+	
+10. What is a flag? Give three examples of flags you have used.
+	 A flag adds further instructions to a command in the terminal
+	 I have used -r -a and -l 
+ 
+11. What do the r and f flags do with the rm command?
+	 The r and f flags, when combined with the rm command allow the terminal to remove files and/or folders even if they are not empty, and does not require confirmation of the removal.
+	 
